@@ -1,0 +1,255 @@
+.component1 {
+  margin-top: 15px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(218, 206, 206, 0.2);
+  background-color: rgba(102, 98, 98, 0.2);
+  max-width: 360px;
+  height: 240px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.card img {
+  margin-top: 9px;
+}
+
+.card2 {
+  max-width: 360px;
+  height: 100px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+button {
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: rgb(51, 153, 255);
+  border-radius: 15px;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+
+button:hover,
+a:hover {
+  opacity: 0.7;
+}
+
+h1 {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 30px;
+}
+
+p {
+  color: white;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+
+h3 {
+  margin-left: 70px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.text1 {
+  font-weight: bold;
+}
+
+.img2 {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  padding: 20px;
+}
+
+.img2 img {
+  margin-left: 5px;
+}
+/*
+.img3 {
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: scroll;
+  padding: 10px;
+}
+
+.img3::-webkit-scrollbar {
+  display: none;
+}
+
+.img3 img {
+  width: 100%;
+  object-fit: contain;
+  max-height: 100px;
+  margin-left: 9px;
+  transition: transform 450ms;
+}
+
+.img3 img:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
+*/
+
+/* for f */
+
+.row {
+  align-items: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.row1 {
+  display: flex;
+}
+.mcard,
+.mcard1,
+.mcard2,
+.mcard3,
+.mcard4 {
+  /*float: left;*/
+  max-width: 33.333%;
+  padding: 0.75rem;
+  margin-bottom: 2rem;
+  border: 0;
+  flex-basis: 33.333%;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.mcard::-webkit-scrollbar {
+  display: none;
+}
+.mcard > img {
+  margin-bottom: 0.75rem;
+  width: 100%;
+  transition: transform 450ms;
+}
+
+.mcard img:hover {
+  transform: scale(1.08);
+  opacity: 1;
+}
+
+
+.mcard9 {
+  margin-left: 5px;
+}
+
+.mcard1 > img {
+  margin-bottom: 0.75rem;
+  width: 100%;
+}
+.mcard2 > img {
+  margin-bottom: 0.75rem;
+  width: 100%;
+}
+.mcard3 > img {
+  margin-bottom: 0.75rem;
+  width: 100%;
+}
+.mcard4 > img {
+  margin-bottom: 0.75rem;
+  width: 100%;
+}
+
+.mcard1 {
+  background-color: rgb(0, 46, 77);
+  border-radius: 15px;
+  margin-left: 5px;
+}
+
+.mcard2 {
+  background-color: rgb(31, 0, 77);
+  border-radius: 15px;
+  margin-left: 5px;
+}
+.mcard3 {
+  background-color: rgb(77, 0, 0);
+  border-radius: 15px;
+  margin-left: 5px;
+}
+.mcard4 {
+  background-color: rgb(128, 64, 0);
+  border-radius: 15px;
+  margin-left: 5px;
+}
+
+.card-text {
+  font-size: 85%;
+}
+
+.card4 {
+  max-width: 360px;
+  height: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.card4 {
+  max-width: 360px;
+  height: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+
+.container2 {
+  margin-top: 0px;
+}
+
+#btn1 {
+  width: 85%;
+}
+
+.mcard {
+  border-radius: 15px;
+}
+
+.text {
+  color: rgb(255, 128, 0);
+}
+
+.text2 {
+  color: rgb(179, 0, 71);
+}
+
+.btns {
+  margin-top: 55px;
+}
+
+.text78 {
+  color: white;
+}
+
+.txt79 {
+  color: white;
+  opacity: 0.6;
+}
