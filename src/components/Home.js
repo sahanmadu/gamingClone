@@ -1,14 +1,13 @@
 import React from 'react'
-import '../styles/Home.css'
-import logo3 from '../joystick.png';
-import i1 from '../image1.jpg';
-import i2 from '../image2.jpg';
-import i3 from '../image3.jpg';
-import i4 from '../image4.jpg';
-import i5 from '../image5.jpg';
-import  g1 from '../g1.png';
-import  g2 from '../g2.png';
-import  g4 from '../g4.png';
+import '../styles/Home.css';
+import i1 from '../images/image1.jpg';
+import i2 from '../images/image2.jpg';
+import i3 from '../images/image3.jpg';
+import i4 from '../images/image4.jpg';
+import i5 from '../images/image5.jpg';
+import  g1 from '../images/g1.png';
+import  g2 from '../images/g2.png';
+import  g4 from '../images/g4.png';
 
 function Home() {
     return (

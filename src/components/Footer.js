@@ -1,10 +1,9 @@
 import React from 'react';
-import logo3 from '../joystick.png';
-import homeIcon from '../home.png';
-import store from '../store.png';
-import arena from '../fan.png';
-import me from '../me.png';
-import more from '../more.png';
+import homeIcon from '../images/home.png';
+import store from '../images/store.png';
+import arena from '../images/fan.png';
+import me from '../images/me.png';
+import more from '../images/more.png';
 import '../styles/Footer.css';
 import {Link} from 'react-router-dom';
 

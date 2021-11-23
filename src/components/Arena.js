@@ -1,10 +1,10 @@
 import React from 'react';
 import '../styles/Arena.css';
-import i1 from '../coc.jpg';
-import i2 from '../image2.jpg';
-import i3 from '../image3.jpg';
-import i4 from '../image4.jpg';
-import i5 from '../image5.jpg';
+import i1 from '../images/coc.jpg';
+import i2 from '../images/image2.jpg';
+import i3 from '../images/image3.jpg';
+import i4 from '../images/image4.jpg';
+import i5 from '../images/image5.jpg';
 
 function Arena() {
     return (

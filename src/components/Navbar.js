@@ -1,8 +1,7 @@
 import React from 'react';
 import "../styles/Navbar.css";
-import logo3 from '../joystick.png';
-import download from '../downloading.png';
-import notifi from '../notification.png';
+import logo3 from '../images/joystick.png';
+
 
 
 function Navbar() {
