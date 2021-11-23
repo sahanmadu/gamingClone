@@ -12,6 +12,7 @@ function App() {
     <div className="App">
       
      <Navbar/>
+     
     <Switch>
      <Route path="/" component={Home} exact/>
      <Route path="/arena" component={Arena} />

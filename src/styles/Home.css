@@ -157,7 +157,6 @@ h3 {
   opacity: 1;
 }
 
-
 .mcard9 {
   margin-left: 5px;
 }
@@ -252,4 +251,8 @@ h3 {
 .txt79 {
   color: white;
   opacity: 0.6;
+}
+
+.btnArena {
+  width: 60%;
 }

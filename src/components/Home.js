@@ -143,7 +143,7 @@ function Home() {
                         tournament, climb leaderboards, and win prices!
                         Open to all gamers. Game on!                    
                     </p>
-                    <button>Go To Play Arena</button>
+                    <button className="btnArena">Go To Play Arena</button>
                         
                 </div>
             </div>
